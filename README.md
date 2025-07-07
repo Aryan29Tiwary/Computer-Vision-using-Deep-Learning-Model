@@ -102,3 +102,4 @@ for i in range(5):
     plt.title(f"Predicted: {np.argmax(predictions[i])}")
     plt.axis('off')
     plt.show()
+![WhatsApp Image 2025-07-07 at 23 16 35_eb310e13](https://github.com/user-attachments/assets/28291d8f-efec-427d-825d-67208c75a289)
